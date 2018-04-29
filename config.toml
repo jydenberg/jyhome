@@ -1,0 +1,37 @@
+baseURL = "https://www.joshydenberg.ca/"
+languageCode = "en-us"
+title = "Josh Ydenberg"
+theme = "resume"
+
+[params]
+    firstName = "Josh"
+    lastName = "Ydenberg"
+    address = "1727 Grant St, Vancouver, BC"
+    phone = "604-809-5334"
+    contactNote = "Software Developer"
+    profileImage = "img/Joshpic.jpg"
+    email = "Joshydenberg@gmail.com"
+    description = "Full Stack Software Development | API Creation | Database Integration"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/joshydenberg/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/jydenberg/"
+
+
+[params.google.analytics]
+    trackerID = "UA-118395423-1"

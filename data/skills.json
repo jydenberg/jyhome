@@ -1,0 +1,22 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","Microservices","RESTful APIs"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","JavaScript","Git","Subversion Control","Linux","Jquery","TypeScript"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":["Github","NGINX","MySQL"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  }
+]
