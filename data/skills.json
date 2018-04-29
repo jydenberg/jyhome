@@ -1,22 +1,25 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","Microservices","RESTful APIs"]
+      "skills":[ "IP Networking","Microservices","RESTful APIs","SwaggerIO","OpenAPI"]
   },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","JavaScript","Git","Subversion Control","Linux","Jquery","TypeScript"]
+      "grouping":"Languages, Libraries, and Frameworks",
+      "skills":[ "Java","JavaScript","Jquery","TypeScript","C", "C++", "React","Redux"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":["Github","NGINX","MySQL"]
+    "grouping":"Database Related",
+    "skills":[ "SQL", "SQL*Plus","MongoDB","JDBC","TaffyDB"]
+  },
+  {
+      "grouping":"Integration,Platform Development, Administration, and Operating Systems",
+      "skills":["Grunt", "Jenkins", "Github","Gitlab","Git","Subversion Control","Linux","Windows"]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
+          {"name":"Google Cloud","link":"https://cloud.google.com"}
       ]
   }
 ]
