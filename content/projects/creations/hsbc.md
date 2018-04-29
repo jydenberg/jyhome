@@ -1,5 +1,5 @@
 {
-    "title":"HSBC Capstone Project",
+    "title":"HSBC Chatbot Project",
     "link":"https://github.com/jydenberg/HSBC_Capstone",
     "image":"/img/deploysonly.gif",
     "description":"Chatbot designed to communicate basic mortgage, calculator, location, and HSBC related data to customers. Built using Typescipt, SwaggerIO(OpenAPI), and MongoDB.",
