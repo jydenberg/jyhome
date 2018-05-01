@@ -7,10 +7,10 @@ env:
 #     - python-pygments
 before_script:
   - curl --silent -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz | tar zxf -
-  - curl --silent -L https://github.com/tdewolff/minify/releases/download/v${MINIFY_VERSION}/minify_${MINIFY_VERSION}_linux_amd64.tar.gz | tar zxf -
+#  - curl --silent -L https://github.com/tdewolff/minify/releases/download/v${MINIFY_VERSION}/minify_${MINIFY_VERSION}_linux_amd64.tar.gz | tar zxf -
 script:
   - GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` ./hugo
-  - ./minify -a -r -o public/ public
+  #- ./minify -a -r -o public/ public
   # - find public/ -type f \( -name '*.html' -o -name '*.js' -o -name '*.css' -o -name '*.xml' -o -name '*.svg' \) -exec gzip -v -k -f --best {} \; # Gzip Github Pages
 after_success:
   - echo "joshydenberg.ca" >> public/CNAME
