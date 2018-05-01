@@ -4,7 +4,7 @@
       "skills":[ "IP Networking","Microservices","RESTful APIs","SwaggerIO","OpenAPI"]
   },{
       "grouping":"Languages, Libraries, and Frameworks",
-      "skills":[ "Java","JavaScript","Jquery","TypeScript","C", "C++", "React","Redux"]
+      "skills":[ "Java","JavaScript","Jquery","TypeScript","C", "C++", "React","Redux","NodeJS"]
   },
   {
     "grouping":"Database Related",
