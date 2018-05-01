@@ -1,4 +1,4 @@
-baseURL = "http://www.joshydenberg.ca/"
+baseURL = "www.joshydenberg.ca/"
 languageCode = "en-US"
 title = "Josh Ydenberg"
 theme = "resume"
