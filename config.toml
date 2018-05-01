@@ -20,7 +20,6 @@ theme = "resume"
     showPublications = false
     showExperience = true
     showEducation = true
-
     showQr = true
 
 [[params.handles]]
