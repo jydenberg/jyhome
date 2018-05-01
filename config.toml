@@ -1,4 +1,4 @@
-baseURL = "https://www.joshydenberg.ca/"
+baseURL = "https://jydenberg.github.io/jyhome/"
 languageCode = "en-us"
 title = "Josh Ydenberg"
 theme = "resume"
