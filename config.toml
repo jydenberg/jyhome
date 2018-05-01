@@ -1,4 +1,4 @@
-baseURL = "https://jydenberg.github.io/jyhome/"
+baseURL = "https://www.joshydenberg.ca/"
 languageCode = "en-us"
 title = "Josh Ydenberg"
 theme = "resume"
@@ -20,6 +20,7 @@ theme = "resume"
     showPublications = false
     showExperience = true
     showEducation = true
+
     showQr = true
 
 [[params.handles]]
