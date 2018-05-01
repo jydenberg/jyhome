@@ -18,6 +18,6 @@ I seek to use my creativity, passion, technical ability and experience working w
 
 I was born and raised in Vancouver, BC - a city which I continue to love after many years. I traveled extensively all over the globe, and have been involved in many jobs including working within, managing and owning a variety of construction businesses. But even with some success, I felt that something was lacking. After considering the options, I realized a career change was in order. I decided to take my interest and passion for computers and video games and take a new Career path towards the tech sector. I went back to University, where i was quickly drawn to the mix of knowledge, logic, and creativity that coding requires. 
 
-### Contact Me
+### Contact me
 
- <a href="mailto:joshydenberg@gmail.com">Email Me at Joshydenberg@gmail.com </a> or click the LinkedIn Below. 
+ <a href="mailto:joshydenberg@gmail.com">Email me at Joshydenberg@gmail.com </a> or click the LinkedIn below. 
