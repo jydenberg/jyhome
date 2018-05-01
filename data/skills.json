@@ -4,7 +4,7 @@
       "skills":[ "IP Networking","Microservices","RESTful APIs","SwaggerIO","OpenAPI"]
   },{
       "grouping":"Languages, Libraries, and Frameworks",
-      "skills":[ "Java","JavaScript","Jquery","TypeScript","C", "C++", "React","Redux","NodeJS"]
+      "skills":[ "Java","JavaScript","Jquery","TypeScript","C", "C++", "React","Redux","NodeJS","HTML", "CSS","go"]
   },
   {
     "grouping":"Database Related",
@@ -12,7 +12,7 @@
   },
   {
       "grouping":"Integration,Platform Development, Administration, and Operating Systems",
-      "skills":["Grunt", "Jenkins", "Github","Gitlab","Git","Subversion Control","Linux","Windows"]
+      "skills":["Grunt", "Jenkins", "TravisCI", "Github","Git","Subversion Control","Linux","Windows"]
   },
   {
     "grouping":"Containers & Cloud",
