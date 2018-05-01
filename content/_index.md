@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Josh Ydenberg Home"
 date: 2018-02-10T18:56:13-05:00
 sitemap:
   priority : 1.0
@@ -11,7 +11,7 @@ outputs:
 ---
 
 ### Mission Statement
-I seek to use my creativity, passion, technical ability and experience working within and leading teams to provide the best solutions possible. I evolve and discover consistantly, continue to seek new challenges, and have a desire to become the best version of myself. This philosophy has always been core to who I am, and having completed my degree i am now applying this to the persuit of a career in software development.
+I seek to use my creativity, passion, technical ability and experience working within and leading teams to provide the best solutions possible. I evolve and discover consistently, continue to seek new challenges, and have a desire to become the best version of myself. This philosophy has always been core to who I am, and having completed my degree i am now applying this to the persuit of a career in software development.
 
 
 ### Who am I?
