@@ -1,7 +1,7 @@
 baseURL = "https://www.joshydenberg.ca/"
 languageCode = "en-us"
 title = "Josh Ydenberg"
-theme = "resume"
+theme = "hugo-resume"
 
 [params]
     firstName = "Josh"
