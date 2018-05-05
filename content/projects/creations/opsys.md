@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["C", "Bosch", "Assembly"],
     "fact":"",
-    "weight":"6",
+    "weight":"15",
     "sitemap": {"priority" : "0.8"}
 }
 

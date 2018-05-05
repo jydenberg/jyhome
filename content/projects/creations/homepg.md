@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["JavaScript", "Go", "HTML", "CSS", "TravisCI","Hugo","GIT"],
     "fact":"",
-    "weight":"6",
+    "weight":"14",
     "sitemap": {"priority" : "0.8"}
 }
 

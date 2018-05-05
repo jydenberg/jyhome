@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["Typescript", "NodeJS", "Mocha", "Chai","REST APIs"],
     "fact":"",
-    "weight":"2",
+    "weight":"20",
     "sitemap": {"priority" : "0.8"}
 }
 

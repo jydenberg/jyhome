@@ -6,7 +6,7 @@
     "featured":true,
     "tags":["Java","SQL","JDBC"],
     "fact":"",
-    "weight":"10",
+    "weight":"15",
     "sitemap": {"priority" : "0.8"}
 }
 

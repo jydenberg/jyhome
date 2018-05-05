@@ -2,11 +2,12 @@
     "title":"HSBC Chatbot",
     "link":"https://github.com/jydenberg/HSBC_Capstone",
     "image":"/img/hsbc.jpg",
-    "description":"Created a proof-of-concept Chat and Voice bot for HSBC to communicate with clients on mortgage related content. The solution uses a microservices RESTful solution, Uses Mongoose in Typescript to access MongoDB,  and features live deployment using Jenkins. It also makes use of GoogleAPI/Cloud integration.",
+    "description":"Created a proof-of-concept Chat and Voice bot for HSBC to communicate with clients on mortgage related content.  The solution uses a microservices RESTful solution, Uses Mongoose in Typescript to access MongoDB,  and features live deployment 
+using Jenkins. It also makes use of GoogleAPI/Cloud integration.",
     "featured":true,
     "tags":["Typescript","NLP","REST APIs","MongoDB","Jenkins","OpenAPI","NodeJS","Mocha","Chai","Docker"],
     "fact":"",
-    "weight":"1",
+    "weight":"11",
     "sitemap": {"priority" : "0.8"}
 }
 
