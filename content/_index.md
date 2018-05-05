@@ -15,7 +15,7 @@ I seek to use my creativity, passion, technical ability and experience working w
 
 ### Who am I?
 
-I was born and raised in Vancouver, British Columbia, a city which I continue to love. I have traveled extensively around the globe, and have used my talents in a variety of occupations including working sucessfully within, managing and owning a variety of construction businesses. Yet, I felt that something was lacking. After careful consideration, I realized a career change was in order. I decided to take my interest and passion for computers and video games and embark on a new career challenge in the tech sector. I went back to University, where I was drawn to the mix of knowledge, logic, and creativity that coding requires. 
+I was born and raised in Vancouver, British Columbia, a city which I continue to love. I have traveled extensively around the globe, and have used my talents in a variety of occupations including working sucessfully within, managing and owning a variety of construction businesses. Yet, I felt that something was lacking. After careful consideration, I realized a career change was in order. I decided to take my interest and passion for computers and video games and embark on a new career challenge in the tech sector. I went back to university, where I was drawn to the mix of knowledge, logic, and creativity that coding requires. 
 
 ### Contact me
 
