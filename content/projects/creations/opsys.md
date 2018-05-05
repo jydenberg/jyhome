@@ -2,7 +2,7 @@
     "title":"Hardware/OS Course Term Project",
     "link":"https://github.com/jydenberg/opsyscourse",
     "image":"/img/bosch.jpg",
-    "description":"Project for my fourth year course on hardware design, during which I Created an operating system and kernel. This included design and implementation of a memory manager, signal and interupt handler, process allocator and priority queue, keyboard signal handling, and a text shell utilizing the created infrastructure. Built using C, Y86 Assembly Language, and Bosch's Emulator",
+    "description":"Project for my fourth year course on hardware design, during which I created an operating system and kernel. This included design and implementation of a memory manager, signal and interupt handler, process allocator and priority queue, keyboard signal handling, and a text shell utilizing the created infrastructure. Built using C, Y86 Assembly Language, and Bosch's Emulator",
     "featured":true,
     "tags":["C", "Bosch", "Assembly"],
     "fact":"",
