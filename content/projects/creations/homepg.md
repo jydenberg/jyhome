@@ -2,9 +2,9 @@
     "title":"Josh Homepage",
     "link":"https://github.com/jydenberg/jyhome",
     "image":"/img/bosch.jpg",
-    "description":"My home site you are currently viewing. It uses Hugo for Static Site Generation, and is continuously deployed and integrated with TravisCI. Created in Go, HTML, CSS, and JavaScript",
+    "description":"My home site you are currently viewing. It uses Hugo for Static Site Generation, and is continuously deployed and integrated with TravisCI. Created in Golang, HTML, CSS, Bootstrap and JavaScript.",
     "featured":true,
-    "tags":["JavaScript", "Go", "HTML", "CSS", "TravisCI","Hugo","GIT"],
+    "tags":["JavaScript", "Go", "HTML", "CSS", "TravisCI","Hugo","GIT","Bootstrap"],
     "fact":"",
     "weight":"14",
     "sitemap": {"priority" : "0.8"}
