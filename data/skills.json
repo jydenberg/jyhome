@@ -1,25 +1,54 @@
 [
   {
-      "grouping":"Architecture0",
-      "skills":[ "IP Networking","Microservices","RESTful APIs","SwaggerIO","OpenAPI"]
-  },{
-      "grouping":"Languages, Libraries, and Frameworks",
-      "skills":[ "Java","JavaScript","Jquery","TypeScript","C", "C++", "React","Redux","NodeJS","HTML", "CSS","go"]
+    "grouping": "Architecture0",
+    "skills": [
+      "IP Networking",
+      "Microservices",
+      "RESTful APIs",
+      "SwaggerIO",
+      "OpenAPI"
+    ]
   },
   {
-    "grouping":"Database Related",
-    "skills":[ "SQL", "SQL*Plus","MongoDB","JDBC","TaffyDB"]
+    "grouping": "Languages, Libraries, and Frameworks",
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Jquery",
+      "TypeScript",
+      "C",
+      "C++",
+      "React",
+      "Redux",
+      "NodeJS",
+      "HTML",
+      "CSS",
+      "Python"
+    ]
   },
   {
-      "grouping":"Integration,Platform Development, Administration, and Operating Systems",
-      "skills":["Grunt", "Jenkins", "TravisCI", "Github","Git","Subversion Control","Linux","Windows"]
+    "grouping": "Database Related",
+    "skills": ["SQL", "SQL*Plus", "MongoDB", "JDBC", "TaffyDB", "HanaDB", "Postgres"]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"}
-      ]
+    "grouping": "Integration, Platform Development, Administration, and Operating Systems",
+    "skills": [
+      "Grunt",
+      "Jenkins",
+      "TravisCI",
+      "Github",
+      "Git",
+      "Subversion Control",
+      "Linux",
+      "Windows"
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      { "name": "Docker", "link": "https://docker.com" },
+      { "name": "AWS", "link": "https://aws.amazon.com" },
+      { "name": "Google Cloud", "link": "https://cloud.google.com" }
+    ]
   }
 ]

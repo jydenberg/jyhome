@@ -10,5 +10,10 @@
         "company":"Island Clean Air",
         "summary":"Created a simple Webapp to improve product manufacturing process.",
         "range":"February 2018"
+    },{
+        "role":"Cloud Developer",
+        "company":"SAP Labs",
+        "summary":"Data wrangling team working on micro-service dev ops and backend development",
+        "range":"Feburary 2018-Present"
     }
 ]
