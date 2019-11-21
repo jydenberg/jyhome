@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creations on Josh Ydenberg Homepage</title>
+    <link>https://joshydenberg.ca/projects/creations/</link>
+    <description>Recent content in Creations on Josh Ydenberg Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://joshydenberg.ca/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HSBC Chatbot</title>
+      <link>https://joshydenberg.ca/projects/creations/hsbc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/hsbc/</guid>
+      <description>  Used Typescript(With Async Promises), MongoDB, and Mongoose for Database access, management and optimization   Used openAPI/Swagger.IO to create the REST API infrastructure for communication between the microservices   Created and implemented of the calculator functionality in the back end   Contributed to creation of dialogue using natural language programming.   Worked with a team in an AGILE team environment   Used Jenkins and Docker for automated deployment and continuous integration   Integrated the Google-API, including maps and GPS tools, using typescript promises and call-backs   Created testing script and suites using Mocha/Chai libraries   </description>
+    </item>
+    
+    <item>
+      <title>Josh Homepage</title>
+      <link>https://joshydenberg.ca/projects/creations/homepg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/homepg/</guid>
+      <description>With the reemergence of static sites as a optimized and lightweight solution for many web development needs, i highly recommend Hugo as a static site generator to any developer comfortable in go and with the usual web stack of HTML, CSS, and JavaScript.
+  Uses TravisCI for integration and deployment. Automatically deploys without downtime upon push to REPO.   Static site generation done through Hugo.   Uses bootstrap for dynamic resizing and components   </description>
+    </item>
+    
+    <item>
+      <title>Hardware/OS Course Term Project</title>
+      <link>https://joshydenberg.ca/projects/creations/opsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/opsys/</guid>
+      <description>  Created a Kernel to emulate a process pipeline/stack and operating system BIOS   Implementation of a memory allocator and management system to be used by the Kernel/OS   Implemented signal and interrupt handling   Implemented process priority queue   Implemented device handling for keyboard functionality   Creation of a simple shell UI to access   </description>
+    </item>
+    
+    <item>
+      <title>Sprout Botanicals Project</title>
+      <link>https://joshydenberg.ca/projects/creations/sprout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/sprout/</guid>
+      <description>  Created a Java UI to handle differing types of storage and query requests.   Implementation of JDBC queries to access the SQL database   Creation of SQL Seed page to populate data   Creation of SQL queries within SQLplus files for database optimization   Project implemented and being used in a live warehouse setting   </description>
+    </item>
+    
+    <item>
+      <title>UBC Pair Class Project</title>
+      <link>https://joshydenberg.ca/projects/creations/pair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/pair/</guid>
+      <description>  Used Typescipt Promises to manipulate, query, and organize large amount of local data   Used NodeJS Filesystem for access. This scrapes and removes useful data, organizes it in a custom JSON to optimize access and use   Used REST server to receive and send data from UBC pair servers   </description>
+    </item>
+    
+  </channel>
+</rss>

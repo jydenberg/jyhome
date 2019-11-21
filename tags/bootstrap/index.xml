@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap on Josh Ydenberg Homepage</title>
+    <link>https://joshydenberg.ca/tags/bootstrap/</link>
+    <description>Recent content in Bootstrap on Josh Ydenberg Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://joshydenberg.ca/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Josh Homepage</title>
+      <link>https://joshydenberg.ca/projects/creations/homepg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/homepg/</guid>
+      <description>With the reemergence of static sites as a optimized and lightweight solution for many web development needs, i highly recommend Hugo as a static site generator to any developer comfortable in go and with the usual web stack of HTML, CSS, and JavaScript.
+  Uses TravisCI for integration and deployment. Automatically deploys without downtime upon push to REPO.   Static site generation done through Hugo.   Uses bootstrap for dynamic resizing and components   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mongodb on Josh Ydenberg Homepage</title>
+    <link>https://joshydenberg.ca/tags/mongodb/</link>
+    <description>Recent content in Mongodb on Josh Ydenberg Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://joshydenberg.ca/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HSBC Chatbot</title>
+      <link>https://joshydenberg.ca/projects/creations/hsbc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/hsbc/</guid>
+      <description>  Used Typescript(With Async Promises), MongoDB, and Mongoose for Database access, management and optimization   Used openAPI/Swagger.IO to create the REST API infrastructure for communication between the microservices   Created and implemented of the calculator functionality in the back end   Contributed to creation of dialogue using natural language programming.   Worked with a team in an AGILE team environment   Used Jenkins and Docker for automated deployment and continuous integration   Integrated the Google-API, including maps and GPS tools, using typescript promises and call-backs   Created testing script and suites using Mocha/Chai libraries   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bosch on Josh Ydenberg Homepage</title>
+    <link>https://joshydenberg.ca/tags/bosch/</link>
+    <description>Recent content in Bosch on Josh Ydenberg Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://joshydenberg.ca/tags/bosch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardware/OS Course Term Project</title>
+      <link>https://joshydenberg.ca/projects/creations/opsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshydenberg.ca/projects/creations/opsys/</guid>
+      <description>  Created a Kernel to emulate a process pipeline/stack and operating system BIOS   Implementation of a memory allocator and management system to be used by the Kernel/OS   Implemented signal and interrupt handling   Implemented process priority queue   Implemented device handling for keyboard functionality   Creation of a simple shell UI to access   </description>
+    </item>
+    
+  </channel>
+</rss>
